@@ -1,7 +1,10 @@
 # StopCorona-Poster
-#stopcorona poster design for your shop, window, public awareness act.
+**#stopcorona** poster design for your shop, window, public awareness act.
+
+![](/stopcorona-pic1.jpg)
 
 
+---
 
 ![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
